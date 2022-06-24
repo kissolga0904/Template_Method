@@ -1,0 +1,7 @@
+C:\Users\kisso\Desktop\Pti BSc\4. félév\Programozási technológiák ea\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\kisso\Desktop\Pti BSc\4. félév\Programozási technológiák ea\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\kisso\Desktop\Pti BSc\4. félév\Programozási technológiák ea\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\kisso\Desktop\Pti BSc\4. félév\Programozási technológiák ea\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\kisso\Desktop\Pti BSc\4. félév\Programozási technológiák ea\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\kisso\Desktop\Pti BSc\4. félév\Programozási technológiák ea\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\kisso\Desktop\Pti BSc\4. félév\Programozási technológiák ea\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
